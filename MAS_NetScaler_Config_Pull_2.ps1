@@ -52,8 +52,8 @@
         EMAIL  : Rick.Davis@citrix.com
         DATE   : 06 APR 2018
 
-        NetScaler MAS as an API Proxy Server
-        https://docs.citrix.com/en-us/netscaler-mas/12/mas-as-api-proxy-server.html
+        NetScaler ADM as an API Proxy Server
+        https://docs.citrix.com/en-us/citrix-application-delivery-management-software/current-release/adm-as-api-proxy-server.html
 
         To make ADM forward a request to a managed instance, include any one 
         of the following HTTP headers in the API request:
